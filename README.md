@@ -1,5 +1,5 @@
 # Decision-Tree
-This simple Decision Tree Algorithm can learn from NUMERICAL inputs to make a tree and save a HTML file. 
+This simple Decision Tree Algorithm can learn from NUMERICAL inputs to make a tree and save it in a HTML file. 
 Then it can make decisions for unseen-data based on the constructed tree.
 
 To run the codes you can follow these steps:
